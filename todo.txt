@@ -1,3 +1,6 @@
-todo hari ini
+todo hari ini:
 - belajar java dan springboot
 - belajar longchain
+
+todo besok:
+- lanjut belajar springboot
