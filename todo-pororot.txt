@@ -1,3 +1,7 @@
  todo pororot:
 - belajar laravel
 - belajar CI
+
+pororot's fav food:
+- sami asih
+- mie mohan
