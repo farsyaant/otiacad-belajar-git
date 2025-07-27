@@ -1,3 +1,7 @@
  todo pororot:
 - belajar laravel
 - belajar CI
+
+pororot's want to visit:
+- vienna
+- tokyo
