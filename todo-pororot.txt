@@ -2,6 +2,11 @@
 - belajar laravel
 - belajar CI
 
+pororot's fav food:
+- sami asih
+- mie mohan
+
 pororot's want to visit:
 - vienna
 - tokyo
+
